@@ -71,7 +71,7 @@ int main()
                 }
             }
         }
-        cout << "Case #" << cas <<": " << A << " " << B << endl;
+        cout << "Case #" << cas << ": " << A << " " << B << endl;
     }
     return 0;
 }
